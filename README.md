@@ -6,3 +6,8 @@ This repository contains the implementation of a new version U-Net (DC-UNet) use
 <div align=center><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/DC-block.jpg" width="250" height="250" alt="DC-Block"/></div><div align=center><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/res_path.jpg" width="600" height="250" alt="Res-path"/></div>
 
 <div align=center><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/dcunet.jpg" width="750" height="250" alt="DC-UNet"/></div>
+## Dataset
+In this project, we test three datasets:
+- [√] 完成更改
+- [ ] 推送提交到 GitHub
+- [ ] 打开拉取请求
