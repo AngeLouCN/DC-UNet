@@ -21,8 +21,8 @@ In this project, we test three datasets:
 
 The following dependencies are needed:
 
-- Kearas == 2.24
-- Opencv == 3.31
+- Kearas == 2.2.4
+- Opencv == 3.3.1
 - Tensorflow == 1.10.0
 - Matplotlib == 3.1.3
 - Numpy == 1.19.1
