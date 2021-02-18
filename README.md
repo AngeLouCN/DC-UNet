@@ -7,6 +7,7 @@ This repository contains the implementation of a new version U-Net (DC-UNet) use
 
 <div align=center><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/dcunet.jpg" width="750" height="250" alt="DC-UNet"/></div>
 ## Dataset
+
 In this project, we test three datasets:
 
 - [x] Infrared Breast Dataset
