@@ -5,4 +5,4 @@ This repository contains the implementation of a new version U-Net (DC-UNet) use
 ## Architecture of DC-UNet
 <img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/DC-block.jpg" width="250" height="250" alt="DC-Block"/><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/res_path.jpg" width="600" height="250" alt="Res-path"/>
 
-<img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/dcunet.jpg" width="900" height="300" alt="DC-UNet"/>
+<img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/dcunet.jpg" width="750" height="250" alt="DC-UNet"/>
