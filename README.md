@@ -27,3 +27,13 @@ The following dependencies are needed:
 - Matplotlib == 3.1.3
 - Numpy == 1.19.1
 
+### training
+
+You can download the datasets you want to try, and just run: 
+
+```
+main.py
+```
+
+## Results on three datasets
+
