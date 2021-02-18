@@ -8,6 +8,7 @@ This repository contains the implementation of a new version U-Net (DC-UNet) use
 <div align=center><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/dcunet.jpg" width="750" height="250" alt="DC-UNet"/></div>
 ## Dataset
 In this project, we test three datasets:
-- [x] 完成更改
-- [ ] 推送提交到 GitHub
-- [ ] 打开拉取请求
+
+- [x] Infrared Breast Dataset
+- [x] Endoscopy (CVC-ClinicDB)
+- [x] Electron Microscopy (ISBI-2012)
