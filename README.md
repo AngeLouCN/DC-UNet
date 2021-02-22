@@ -38,3 +38,17 @@ main.py
 ## Results on three datasets
 
 <div align=center><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/results/table.PNG" width="773" height="607" alt="Result_table"/></div>
+
+## citation
+
+If you think this helpful, please cite
+
+@inproceedings{lou2021dc,
+  title={DC-UNet: rethinking the U-Net architecture with dual channel efficient CNN for medical image segmentation},
+  author={Lou, Ange and Guan, Shuyue and Loew, Murray H},
+  booktitle={Medical Imaging 2021: Image Processing},
+  volume={11596},
+  pages={115962T},
+  year={2021},
+  organization={International Society for Optics and Photonics}
+}
