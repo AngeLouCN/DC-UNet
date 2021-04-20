@@ -42,7 +42,7 @@ main.py
 ### Citation
 If you think this work and code is helpful in your research, please cite:
 
-'''
+```
 @inproceedings{lou2021dc,
   title={DC-UNet: rethinking the U-Net architecture with dual channel efficient CNN for medical image segmentation},
   author={Lou, Ange and Guan, Shuyue and Loew, Murray H},
@@ -52,5 +52,14 @@ If you think this work and code is helpful in your research, please cite:
   year={2021},
   organization={International Society for Optics and Photonics}
 }
-'''
+
+@inproceedings{lou2019segmentation,
+  title={Segmentation of Infrared Breast Images Using MultiResUnet Neural Networks},
+  author={Lou, Ange and Guan, Shuyue and Kamona, Nada and Loew, Murray},
+  booktitle={2019 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+```
 
