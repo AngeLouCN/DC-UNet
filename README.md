@@ -4,6 +4,9 @@ This repository contains the implementation of a new version U-Net (DC-UNet) use
 
 [**paper**](https://arxiv.org/abs/2006.00414).
 
+**:fire: NEWS :fire:**
+**The pytorch version is available** 
+
 ## Architecture of DC-UNet
 <div align=center><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/DC-block.jpg" width="250" height="250" alt="DC-Block"/><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/model_architecture/res_path.jpg" width="600" height="250" alt="Res-path"/></div>
 
